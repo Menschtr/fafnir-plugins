@@ -1,0 +1,7 @@
+{
+  "name": "Demo Eklenti",
+  "version": "1.0",
+  "author": "Fafnir",
+  "description": "Dogrulama eklentisi: sayfaya data-fafnir-demo-plugin niteligi yazar.",
+  "main": "main.js"
+}

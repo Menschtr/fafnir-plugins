@@ -1,0 +1,7 @@
+{
+  "name": "Hello",
+  "version": "1.0",
+  "author": "Fafnir",
+  "description": "The smallest possible plugin: logs one line at boot.",
+  "main": "main.js"
+}

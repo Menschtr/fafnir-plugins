@@ -1,0 +1,7 @@
+{
+  "name": "Starter Plugin",
+  "version": "1.0",
+  "author": "your-name",
+  "description": "Minimal scaffold: greet once at boot and stamp the page.",
+  "main": "main.js"
+}
